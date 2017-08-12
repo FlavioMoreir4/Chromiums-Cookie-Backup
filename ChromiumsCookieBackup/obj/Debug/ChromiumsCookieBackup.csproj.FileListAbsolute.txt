@@ -1,0 +1,15 @@
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\Chromium's Cookie Backup.exe.config
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\Chromium's Cookie Backup.exe
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\Chromium's Cookie Backup.pdb
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\System.Data.SQLite.dll
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\System.Data.SQLite.xml
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\obj\Debug\ChromiumsCookieBackup.csprojResolveAssemblyReference.cache
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\obj\Debug\ChromeCookieBackup.MainForm.resources
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\obj\Debug\ChromiumsCookieBackup.Properties.Resources.resources
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\obj\Debug\ChromeCookieBackup.RestoreForm.resources
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\obj\Debug\ChromiumsCookieBackup.csproj.GenerateResource.Cache
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\obj\Debug\Chromium's Cookie Backup.exe
+C:\Users\Flavi\Documents\Visual Studio 2017\Projects\ChromeCookieBackup\ChromiumsCookieBackup\obj\Debug\Chromium's Cookie Backup.pdb
